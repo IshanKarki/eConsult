@@ -1,2 +1,1 @@
-# eConsult
-Flutter project for mobile app development
+# e_consult_4rth-sem
