@@ -1,7 +1,7 @@
 # eConsult
 
 
-Flutter project on online consultation app for everyone.
+Flutter project on online medical consultation app for everyone especially targetting the Covid-19 pandemic.
 
 
 
